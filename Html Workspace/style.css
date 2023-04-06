@@ -1,0 +1,25 @@
+table, th, td 
+{
+    color: white;
+    border-style: groove;
+    text-align: center;  
+    border: 1px solid red;
+    
+}
+td
+{
+    height: 50px;
+    position: relative;
+}
+body
+{
+    background-image: url("https://img.freepik.com/premium-photo/morning-sun-light-rays-piercing-through-trees_97378-54.jpg?w=900");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav
+{
+    align-items: center;
+    color: aliceblue;
+    background-color: aqua;
+}
